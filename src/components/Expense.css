@@ -1,0 +1,11 @@
+.expense {
+  padding: 1rem;
+  background-color: rgb(80, 75, 75);
+  margin: 5rem auto;
+  width: 50rem;
+  max-width: 95%;
+}
+
+.expense ul {
+  padding: 5px 5px;
+}
